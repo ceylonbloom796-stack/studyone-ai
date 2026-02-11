@@ -1,0 +1,7 @@
+{
+  "name": "StudyOne AI",
+  "description": "Transform any document or text into interactive flashcards, multiple-choice questions, and comprehensive summaries using advanced Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
